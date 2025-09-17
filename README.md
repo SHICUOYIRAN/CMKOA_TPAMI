@@ -17,5 +17,4 @@
   pages={3175-3182},
   
   keywords={Manifolds;Kernel;Tensors;Manifold learning;Estimation;Nearest neighbor methods;Buildings;Accuracy;Vectors;Telecommunications;Multi-view K-means;manifold learning;tensor schatten p-norm},
-  
-  doi={10.1109/TPAMI.2024.3521022}}
+  }
